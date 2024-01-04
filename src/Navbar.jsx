@@ -10,27 +10,27 @@ import discord from './Images/Profile.jpg';
 function Navbar() {
   const typewriterRef = useRef(null);
 
-  // useEffect(() => {
-  //   const typewriter = new Typewriter(typewriterRef.current, {
-  //     strings: [
-  //       "I am a Computer Science Student",
-  //       "I like coding",
-  //       "I enjoy watching shows",
-  //       "Keep scrolling!",
-  //     ],
-  //     autoStart: true,
-  //     loop: true,
-  //     typeSpeed: 0,
-  //     deleteSpeed: 0,
-  //   });
+  useEffect(() => {
+    const typewriter = new Typewriter(typewriterRef.current, {
+      strings: [
+        "Under Developement",
+        // "I like coding",
+        // "I enjoy watching shows",
+        // "Keep scrolling!",
+      ],
+      autoStart: true,
+      loop: true,
+      typeSpeed: 0,
+      deleteSpeed: 0,
+    });
 
-  //   typewriterRef.current.style.display = "flex";
-  //   typewriterRef.current.style.flexWrap = "wrap";
+    typewriterRef.current.style.display = "flex";
+    typewriterRef.current.style.flexWrap = "wrap";
 
-  //   return () => {
-  //     typewriter.stop();
-  //   };
-  // }, []);
+    return () => {
+      typewriter.stop();
+    };
+  }, []);
 
  
 
