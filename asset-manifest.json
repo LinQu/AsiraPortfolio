@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.d01d9af1.css",
-    "main.js": "/static/js/main.74ae604a.js",
-    "static/media/FaultFinder.png": "/static/media/FaultFinder.3810cc68cae3a0572589.png",
-    "static/media/medical.png": "/static/media/medical.a21f7daf5a0aca5b5f45.png",
-    "static/media/Profile.jpg": "/static/media/Profile.4286b40bed4001202d9a.jpg",
-    "static/media/Calendar.png": "/static/media/Calendar.6d90883f8877691f0b4e.png",
-    "static/media/TensorFlow.jpg": "/static/media/TensorFlow.4e11637bab7dd58f2ded.jpg",
-    "static/media/Better.jpg": "/static/media/Better.77468e0d112a61353243.jpg",
-    "static/media/DiscordBot.png": "/static/media/DiscordBot.c51097ef55d0b350907b.png",
-    "index.html": "/index.html",
-    "main.d01d9af1.css.map": "/static/css/main.d01d9af1.css.map",
-    "main.74ae604a.js.map": "/static/js/main.74ae604a.js.map"
+    "main.css": "/AsiraPortfolio/static/css/main.d01d9af1.css",
+    "main.js": "/AsiraPortfolio/static/js/main.23b85fa1.js",
+    "static/media/FaultFinder.png": "/AsiraPortfolio/static/media/FaultFinder.3810cc68cae3a0572589.png",
+    "static/media/medical.png": "/AsiraPortfolio/static/media/medical.a21f7daf5a0aca5b5f45.png",
+    "static/media/Profile.jpg": "/AsiraPortfolio/static/media/Profile.4286b40bed4001202d9a.jpg",
+    "static/media/Calendar.png": "/AsiraPortfolio/static/media/Calendar.6d90883f8877691f0b4e.png",
+    "static/media/TensorFlow.jpg": "/AsiraPortfolio/static/media/TensorFlow.4e11637bab7dd58f2ded.jpg",
+    "static/media/Better.jpg": "/AsiraPortfolio/static/media/Better.77468e0d112a61353243.jpg",
+    "static/media/DiscordBot.png": "/AsiraPortfolio/static/media/DiscordBot.c51097ef55d0b350907b.png",
+    "index.html": "/AsiraPortfolio/index.html",
+    "main.d01d9af1.css.map": "/AsiraPortfolio/static/css/main.d01d9af1.css.map",
+    "main.23b85fa1.js.map": "/AsiraPortfolio/static/js/main.23b85fa1.js.map"
   },
   "entrypoints": [
     "static/css/main.d01d9af1.css",
-    "static/js/main.74ae604a.js"
+    "static/js/main.23b85fa1.js"
   ]
 }
