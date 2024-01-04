@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/AsiraPortfolio/static/css/main.d01d9af1.css",
-    "main.js": "/AsiraPortfolio/static/js/main.bbca50a0.js",
+    "main.js": "/AsiraPortfolio/static/js/main.fb1f0536.js",
     "static/media/FaultFinder.png": "/AsiraPortfolio/static/media/FaultFinder.3810cc68cae3a0572589.png",
     "static/media/medical.png": "/AsiraPortfolio/static/media/medical.a21f7daf5a0aca5b5f45.png",
     "static/media/Profile.jpg": "/AsiraPortfolio/static/media/Profile.4286b40bed4001202d9a.jpg",
@@ -11,10 +11,10 @@
     "static/media/DiscordBot.png": "/AsiraPortfolio/static/media/DiscordBot.c51097ef55d0b350907b.png",
     "index.html": "/AsiraPortfolio/index.html",
     "main.d01d9af1.css.map": "/AsiraPortfolio/static/css/main.d01d9af1.css.map",
-    "main.bbca50a0.js.map": "/AsiraPortfolio/static/js/main.bbca50a0.js.map"
+    "main.fb1f0536.js.map": "/AsiraPortfolio/static/js/main.fb1f0536.js.map"
   },
   "entrypoints": [
     "static/css/main.d01d9af1.css",
-    "static/js/main.bbca50a0.js"
+    "static/js/main.fb1f0536.js"
   ]
 }
